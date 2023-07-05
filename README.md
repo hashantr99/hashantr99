@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hashantr99&label=Profile%20views&color=0e75b6&style=flat" alt="hashantr99" /> </p>
 
+- 🎓 I’m currently pursuing B.Sc (Hons) in Information Technology **@ University of Kelaniya, Sri Lanka**
+  
 - 🔭 I’m currently working on **Web Development**
 
 - 👯 I’m looking to collaborate on **Web Development**
